@@ -1,4 +1,4 @@
-#Facial Recognition Attendance System
+##Facial Recognition Attendance System
 
 This project is a Facial Recognition Attendance System that uses computer vision to mark attendance automatically. It is built using Python and integrates the Haar Cascade Frontal Face Default pre-trained algorithm to detect and recognize faces. The recognized attendance data is saved in a CSV file for easy access and management.
 
